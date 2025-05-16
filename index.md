@@ -5,6 +5,9 @@
 
 
 
+```python
+print("Olá, mundo!")
+```
 
 
 
