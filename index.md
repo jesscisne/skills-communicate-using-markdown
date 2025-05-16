@@ -10,6 +10,10 @@ print("Olá, mundo!")
 ```
 
 
+- [x] Completar os exercícios
+- [x] Fazer o commit
+- [ ] Ir para o proximo passo 
+
 
 
 
